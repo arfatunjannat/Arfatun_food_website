@@ -1,0 +1,102 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.big{
+    font-size: 39px;
+    color: gray;
+}
+p{
+    color: gray;
+    font-size: 17px;
+}
+.half-width{
+    display: flex;
+}
+.drem1{
+    margin-left: 150px;
+}
+.picture{
+    width:550px;
+   margin-top: 0px;
+    margin-left: 120px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 20px 25px;
+    color: white;
+    font-weight: 500;
+    border-radius: 25px;
+}
+.picture1{
+    width: 470px;
+    height: 700px;
+    margin-left: 70px;
+}
+.drem4{
+    margin-left: 120px;
+}
+.about{
+    background-image:url("/images/shapes/7.png");
+}
+.pictur2{
+    width:100%;
+
+}
+.flexible-container{
+    display: flex;
+    width: 90%;
+    margin-left: 70px;
+}
+.cat1{
+    box-shadow: 12px 10px 12px 10px gray;
+    margin: 22px;
+    padding: 22px;
+    border-radius: 8px;
+}
+.cat2{
+    box-shadow: 12px 10px 12px 10px gray;
+    margin: 22px;
+    padding: 22px;
+    border-radius: 5px;
+}
+.cat3{
+    box-shadow: 12px 10px 12px 10px gray;
+    margin: 22px;
+    padding: 22px;
+    border-radius: 5px;
+}
+
+.cow1{
+    
+    padding: 32px;
+    width: 70%;
+    margin-left: 130px;
+    margin-top: 25px;
+}
+.cow2{
+    margin: 32px;
+    padding: 32px;
+    width: 70%;
+}
+.cow3{
+    margin: 32px;
+    padding: 32px;
+    width: 70%;
+}
+.flexible-container1{
+    display: flex;
+    width: 90%;
+    margin-left: 76px;
+    box-shadow: 8px 6px 8px 6px gray;
+    border-radius: 15px;
+}
+.big1{
+    font-size: 25px;
+}
+.last-div{
+    background-color: black;
+    width: 100%;
+    height: 270px;
+}
