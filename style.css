@@ -1,5 +1,5 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .big{
     font-size: 39px;
@@ -38,7 +38,7 @@ p{
     margin-left: 120px;
 }
 .about{
-    background-image:url("/images/shapes/7.png");
+    background-image:url("images/shapes/7.png");
 }
 .pictur2{
     width:100%;
